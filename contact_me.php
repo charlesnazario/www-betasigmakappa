@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 if($_POST) {
     $to_Email = "Colonij21@gmail.com"; //Replace with recipient email address
