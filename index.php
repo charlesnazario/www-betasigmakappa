@@ -301,8 +301,9 @@
                     </a> 
                 </p>
 			</div>
-			<div id="content" class="right_content">
-				<form id="contact_form">
+<!--                    
+		<div id="content" class="right_content">
+		<form id="contact_form">
                     <fieldset>
                         <div id="result"></div>
                             <input type="text" name="name" id="name" placeholder="Name  e.g. 'John Doe'" /><br /><br />
@@ -313,7 +314,9 @@
                             </label>
                     </fieldset>
                 </form> 
-			</div>
+		</div>-
+-->
+                
 		</div>
 	</div>
 </body>
